@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/codestore/ncibi/projects/!svn/ver/1248/WebServices/ws-ncibi-client/trunk/src/main/java/org/ncibi/ws/client
+END
+NcibiLRPathService.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/codestore/ncibi/projects/!svn/ver/568/WebServices/ws-ncibi-client/trunk/src/main/java/org/ncibi/ws/client/NcibiLRPathService.java
+END
+NcibiGseaThinkService.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/codestore/ncibi/projects/!svn/ver/1248/WebServices/ws-ncibi-client/trunk/src/main/java/org/ncibi/ws/client/NcibiGseaThinkService.java
+END
+NcibiLRPathNowService.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/codestore/ncibi/projects/!svn/ver/568/WebServices/ws-ncibi-client/trunk/src/main/java/org/ncibi/ws/client/NcibiLRPathNowService.java
+END
+LRPathArgsUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/codestore/ncibi/projects/!svn/ver/696/WebServices/ws-ncibi-client/trunk/src/main/java/org/ncibi/ws/client/LRPathArgsUtil.java
+END
+NcibiLrpathThinkService.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/codestore/ncibi/projects/!svn/ver/1248/WebServices/ws-ncibi-client/trunk/src/main/java/org/ncibi/ws/client/NcibiLrpathThinkService.java
+END
